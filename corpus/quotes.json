@@ -1,0 +1,651 @@
+[
+  {
+    "id": "m001",
+    "text": "我是天空里的一片云，偶尔投影在你的波心。",
+    "author": "徐志摩",
+    "work": "偶然",
+    "slots": [
+      "dawn",
+      "morning",
+      "forenoon",
+      "noon",
+      "afternoon_early",
+      "afternoon",
+      "dusk",
+      "evening",
+      "night",
+      "close"
+    ]
+  },
+  {
+    "id": "m002",
+    "text": "最是那一低头的温柔，像一朵水莲花不胜凉风的娇羞。",
+    "author": "徐志摩",
+    "work": "沙扬娜拉",
+    "slots": [
+      "dawn",
+      "morning",
+      "forenoon",
+      "noon",
+      "afternoon_early",
+      "afternoon",
+      "dusk",
+      "evening",
+      "night",
+      "close"
+    ]
+  },
+  {
+    "id": "m003",
+    "text": "道一声珍重，道一声珍重，那一声珍重里有蜜甜的忧愁。",
+    "author": "徐志摩",
+    "work": "沙扬娜拉",
+    "slots": [
+      "dawn",
+      "morning",
+      "forenoon",
+      "noon",
+      "afternoon_early",
+      "afternoon",
+      "dusk",
+      "evening",
+      "night",
+      "close"
+    ]
+  },
+  {
+    "id": "m004",
+    "text": "假如我是一朵雪花，翩翩的在半空里潇洒，我一定认清我的方向。",
+    "author": "徐志摩",
+    "work": "雪花的快乐",
+    "slots": [
+      "dawn",
+      "morning",
+      "forenoon",
+      "noon",
+      "afternoon_early",
+      "afternoon",
+      "dusk",
+      "evening",
+      "night",
+      "close"
+    ]
+  },
+  {
+    "id": "m005",
+    "text": "飞扬，飞扬，飞扬，这地面上有我的方向。",
+    "author": "徐志摩",
+    "work": "雪花的快乐",
+    "slots": [
+      "dawn",
+      "morning",
+      "forenoon",
+      "noon",
+      "afternoon_early",
+      "afternoon",
+      "dusk",
+      "evening",
+      "night",
+      "close"
+    ]
+  },
+  {
+    "id": "m006",
+    "text": "在半空里娟娟的飞舞，认明了那清幽的住处。",
+    "author": "徐志摩",
+    "work": "雪花的快乐",
+    "slots": [
+      "dawn",
+      "morning",
+      "forenoon",
+      "noon",
+      "afternoon_early",
+      "afternoon",
+      "dusk",
+      "evening",
+      "night",
+      "close"
+    ]
+  },
+  {
+    "id": "m007",
+    "text": "啊，她身上有朱砂梅的清香。",
+    "author": "徐志摩",
+    "work": "雪花的快乐",
+    "slots": [
+      "dawn",
+      "morning",
+      "forenoon",
+      "noon",
+      "afternoon_early",
+      "afternoon",
+      "dusk",
+      "evening",
+      "night",
+      "close"
+    ]
+  },
+  {
+    "id": "m008",
+    "text": "盈盈的，沾住了她的衣襟，贴近她柔波似的心胸。",
+    "author": "徐志摩",
+    "work": "雪花的快乐",
+    "slots": [
+      "dawn",
+      "morning",
+      "forenoon",
+      "noon",
+      "afternoon_early",
+      "afternoon",
+      "dusk",
+      "evening",
+      "night",
+      "close"
+    ]
+  },
+  {
+    "id": "m009",
+    "text": "消溶，消溶，消溶，溶入了她柔波似的心胸。",
+    "author": "徐志摩",
+    "work": "雪花的快乐",
+    "slots": [
+      "dawn",
+      "morning",
+      "forenoon",
+      "noon",
+      "afternoon_early",
+      "afternoon",
+      "dusk",
+      "evening",
+      "night",
+      "close"
+    ]
+  },
+  {
+    "id": "m010",
+    "text": "我不仅要你最柔软的柔情，蕉衣似的永远裹着我的心。",
+    "author": "徐志摩",
+    "work": "起造一座墙",
+    "slots": [
+      "dawn",
+      "morning",
+      "forenoon",
+      "noon",
+      "afternoon_early",
+      "afternoon",
+      "dusk",
+      "evening",
+      "night",
+      "close"
+    ]
+  },
+  {
+    "id": "m011",
+    "text": "我要你的爱有纯钢似的强，在这流动的生里起造一座墙。",
+    "author": "徐志摩",
+    "work": "起造一座墙",
+    "slots": [
+      "dawn",
+      "morning",
+      "forenoon",
+      "noon",
+      "afternoon_early",
+      "afternoon",
+      "dusk",
+      "evening",
+      "night",
+      "close"
+    ]
+  },
+  {
+    "id": "m012",
+    "text": "我将于茫茫人海中访我唯一灵魂之伴侣；得之，我幸；不得，我命。",
+    "author": "徐志摩",
+    "work": "致梁启超",
+    "slots": [
+      "dawn",
+      "morning",
+      "forenoon",
+      "noon",
+      "afternoon_early",
+      "afternoon",
+      "dusk",
+      "evening",
+      "night",
+      "close"
+    ]
+  },
+  {
+    "id": "m013",
+    "text": "我等候你。我望着户外的昏黄，如同望着将来。",
+    "author": "徐志摩",
+    "work": "我等候你",
+    "slots": [
+      "dawn",
+      "morning",
+      "forenoon",
+      "noon",
+      "afternoon_early",
+      "afternoon",
+      "dusk",
+      "evening",
+      "night",
+      "close"
+    ]
+  },
+  {
+    "id": "m014",
+    "text": "你是人间的四月天。",
+    "author": "林徽因",
+    "work": "你是人间的四月天",
+    "slots": [
+      "dawn",
+      "morning",
+      "forenoon",
+      "noon",
+      "afternoon_early",
+      "afternoon",
+      "dusk",
+      "evening",
+      "night",
+      "close"
+    ]
+  },
+  {
+    "id": "m015",
+    "text": "你是爱，是暖，是希望，你是人间的四月天。",
+    "author": "林徽因",
+    "work": "你是人间的四月天",
+    "slots": [
+      "dawn",
+      "morning",
+      "forenoon",
+      "noon",
+      "afternoon_early",
+      "afternoon",
+      "dusk",
+      "evening",
+      "night",
+      "close"
+    ]
+  },
+  {
+    "id": "m016",
+    "text": "你是一树一树的花开，是燕在梁间呢喃。",
+    "author": "林徽因",
+    "work": "你是人间的四月天",
+    "slots": [
+      "dawn",
+      "morning",
+      "forenoon",
+      "noon",
+      "afternoon_early",
+      "afternoon",
+      "dusk",
+      "evening",
+      "night",
+      "close"
+    ]
+  },
+  {
+    "id": "m017",
+    "text": "笑响点亮了四面风，轻灵在春的光艳中交舞着变。",
+    "author": "林徽因",
+    "work": "你是人间的四月天",
+    "slots": [
+      "dawn",
+      "morning",
+      "forenoon",
+      "noon",
+      "afternoon_early",
+      "afternoon",
+      "dusk",
+      "evening",
+      "night",
+      "close"
+    ]
+  },
+  {
+    "id": "m018",
+    "text": "雪化后那片鹅黄，你像；新鲜初放芽的绿，你是。",
+    "author": "林徽因",
+    "work": "你是人间的四月天",
+    "slots": [
+      "dawn",
+      "morning",
+      "forenoon",
+      "noon",
+      "afternoon_early",
+      "afternoon",
+      "dusk",
+      "evening",
+      "night",
+      "close"
+    ]
+  },
+  {
+    "id": "m019",
+    "text": "那一树的嫣红，像是春说的一句话。",
+    "author": "林徽因",
+    "work": "一首桃花",
+    "slots": [
+      "dawn",
+      "morning",
+      "forenoon",
+      "noon",
+      "afternoon_early",
+      "afternoon",
+      "dusk",
+      "evening",
+      "night",
+      "close"
+    ]
+  },
+  {
+    "id": "m020",
+    "text": "别丢掉这一把过往的热情。",
+    "author": "林徽因",
+    "work": "别丢掉",
+    "slots": [
+      "dawn",
+      "morning",
+      "forenoon",
+      "noon",
+      "afternoon_early",
+      "afternoon",
+      "dusk",
+      "evening",
+      "night",
+      "close"
+    ]
+  },
+  {
+    "id": "m021",
+    "text": "你仍得相信，山谷中留着有那回音。",
+    "author": "林徽因",
+    "work": "别丢掉",
+    "slots": [
+      "dawn",
+      "morning",
+      "forenoon",
+      "noon",
+      "afternoon_early",
+      "afternoon",
+      "dusk",
+      "evening",
+      "night",
+      "close"
+    ]
+  },
+  {
+    "id": "m022",
+    "text": "说是寂寞的秋的清愁，说是辽远的海的相思。",
+    "author": "戴望舒",
+    "work": "烦忧",
+    "slots": [
+      "dawn",
+      "morning",
+      "forenoon",
+      "noon",
+      "afternoon_early",
+      "afternoon",
+      "dusk",
+      "evening",
+      "night",
+      "close"
+    ]
+  },
+  {
+    "id": "m023",
+    "text": "假如有人问我的烦忧，我不敢说出你的名字。",
+    "author": "戴望舒",
+    "work": "烦忧",
+    "slots": [
+      "dawn",
+      "morning",
+      "forenoon",
+      "noon",
+      "afternoon_early",
+      "afternoon",
+      "dusk",
+      "evening",
+      "night",
+      "close"
+    ]
+  },
+  {
+    "id": "m024",
+    "text": "我不敢说出你的名字。",
+    "author": "戴望舒",
+    "work": "烦忧",
+    "slots": [
+      "dawn",
+      "morning",
+      "forenoon",
+      "noon",
+      "afternoon_early",
+      "afternoon",
+      "dusk",
+      "evening",
+      "night",
+      "close"
+    ]
+  },
+  {
+    "id": "m025",
+    "text": "我希望逢着一个丁香一样地结着愁怨的姑娘。",
+    "author": "戴望舒",
+    "work": "雨巷",
+    "slots": [
+      "dawn",
+      "morning",
+      "forenoon",
+      "noon",
+      "afternoon_early",
+      "afternoon",
+      "dusk",
+      "evening",
+      "night",
+      "close"
+    ]
+  },
+  {
+    "id": "m026",
+    "text": "她是有丁香一样的颜色，丁香一样的芬芳，丁香一样的忧愁。",
+    "author": "戴望舒",
+    "work": "雨巷",
+    "slots": [
+      "dawn",
+      "morning",
+      "forenoon",
+      "noon",
+      "afternoon_early",
+      "afternoon",
+      "dusk",
+      "evening",
+      "night",
+      "close"
+    ]
+  },
+  {
+    "id": "m027",
+    "text": "我的恋人是一个羞涩的人，她有着桃色的脸，桃色的嘴唇，和一颗天青色的心。",
+    "author": "戴望舒",
+    "work": "我的恋人",
+    "slots": [
+      "dawn",
+      "morning",
+      "forenoon",
+      "noon",
+      "afternoon_early",
+      "afternoon",
+      "dusk",
+      "evening",
+      "night",
+      "close"
+    ]
+  },
+  {
+    "id": "m028",
+    "text": "微风吹动了我的头发，教我如何不想她？",
+    "author": "刘半农",
+    "work": "教我如何不想她",
+    "slots": [
+      "dawn",
+      "morning",
+      "forenoon",
+      "noon",
+      "afternoon_early",
+      "afternoon",
+      "dusk",
+      "evening",
+      "night",
+      "close"
+    ]
+  },
+  {
+    "id": "m029",
+    "text": "燕子你说些什么话？教我如何不想她？",
+    "author": "刘半农",
+    "work": "教我如何不想她",
+    "slots": [
+      "dawn",
+      "morning",
+      "forenoon",
+      "noon",
+      "afternoon_early",
+      "afternoon"
+    ]
+  },
+  {
+    "id": "m030",
+    "text": "水面落花慢慢流，水底鱼儿慢慢游。",
+    "author": "刘半农",
+    "work": "教我如何不想她",
+    "slots": [
+      "dawn",
+      "morning",
+      "forenoon",
+      "noon",
+      "afternoon_early",
+      "afternoon",
+      "dusk",
+      "evening",
+      "night",
+      "close"
+    ]
+  },
+  {
+    "id": "m031",
+    "text": "只是缓缓地，轻轻地，很仔细地挑开了紫色的信唇。",
+    "author": "刘大白",
+    "work": "邮吻",
+    "slots": [
+      "dawn",
+      "morning",
+      "forenoon",
+      "noon",
+      "afternoon_early",
+      "afternoon",
+      "dusk",
+      "evening",
+      "night",
+      "close"
+    ]
+  },
+  {
+    "id": "m032",
+    "text": "我知道这信唇里面，藏着她秘密的一吻。",
+    "author": "刘大白",
+    "work": "邮吻",
+    "slots": [
+      "dawn",
+      "morning",
+      "forenoon",
+      "noon",
+      "afternoon_early",
+      "afternoon",
+      "dusk",
+      "evening",
+      "night",
+      "close"
+    ]
+  },
+  {
+    "id": "m033",
+    "text": "月光恋爱着海洋，海洋恋爱着月光。",
+    "author": "刘半农",
+    "work": "教我如何不想她",
+    "slots": [
+      "evening",
+      "night",
+      "close"
+    ]
+  },
+  {
+    "id": "m034",
+    "text": "这般蜜也似的银夜，教我如何不想她？",
+    "author": "刘半农",
+    "work": "教我如何不想她",
+    "slots": [
+      "evening",
+      "night",
+      "close"
+    ]
+  },
+  {
+    "id": "m035",
+    "text": "西天还有些儿残霞，教我如何不想她？",
+    "author": "刘半农",
+    "work": "教我如何不想她",
+    "slots": [
+      "dusk",
+      "evening"
+    ]
+  },
+  {
+    "id": "m036",
+    "text": "她是睡着了，星光下一朵斜欹的白莲。",
+    "author": "徐志摩",
+    "work": "她是睡着了",
+    "slots": [
+      "evening",
+      "night",
+      "close"
+    ]
+  },
+  {
+    "id": "m037",
+    "text": "她入梦境了，香炉里袅起一缕碧螺烟。",
+    "author": "徐志摩",
+    "work": "她是睡着了",
+    "slots": [
+      "evening",
+      "night",
+      "close"
+    ]
+  },
+  {
+    "id": "m038",
+    "text": "你是夜夜的月圆。",
+    "author": "林徽因",
+    "work": "你是人间的四月天",
+    "slots": [
+      "evening",
+      "night",
+      "close"
+    ]
+  },
+  {
+    "id": "m039",
+    "text": "同样是月明，同样是隔山灯火，满天的星，只有人不见。",
+    "author": "林徽因",
+    "work": "别丢掉",
+    "slots": [
+      "dusk",
+      "evening",
+      "night",
+      "close"
+    ]
+  }
+]

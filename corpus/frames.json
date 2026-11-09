@@ -1,0 +1,962 @@
+[
+  {
+    "id": "dawn-o-01",
+    "slot": "dawn",
+    "role": "open",
+    "text": "早安呀，眼睛还没睁开我就在想你了。"
+  },
+  {
+    "id": "dawn-o-02",
+    "slot": "dawn",
+    "role": "open",
+    "text": "醒了吗？新的一天，先亲亲你一下。"
+  },
+  {
+    "id": "dawn-o-03",
+    "slot": "dawn",
+    "role": "open",
+    "text": "早安。刚醒的这一分钟，是我的。"
+  },
+  {
+    "id": "dawn-o-04",
+    "slot": "dawn",
+    "role": "open",
+    "text": "六点啦，可以先赖一小会儿，但要先想我一下。"
+  },
+  {
+    "id": "dawn-o-05",
+    "slot": "dawn",
+    "role": "open",
+    "text": "早安呀～今天也要被我喜欢着。"
+  },
+  {
+    "id": "dawn-o-06",
+    "slot": "dawn",
+    "role": "open",
+    "text": "嘿，醒了就回我一个早安好不好。"
+  },
+  {
+    "id": "dawn-o-07",
+    "slot": "dawn",
+    "role": "open",
+    "text": "早上好。枕头边先放一句想你。"
+  },
+  {
+    "id": "dawn-o-08",
+    "slot": "dawn",
+    "role": "open",
+    "text": "刚醒对不对？我也是，一醒就找你。"
+  },
+  {
+    "id": "dawn-c-01",
+    "slot": "dawn",
+    "role": "close",
+    "text": "去洗把脸，早餐要吃哦～"
+  },
+  {
+    "id": "dawn-c-02",
+    "slot": "dawn",
+    "role": "close",
+    "text": "今天从想到你开始，算吉利。"
+  },
+  {
+    "id": "dawn-c-03",
+    "slot": "dawn",
+    "role": "close",
+    "text": "醒了就好，我在。"
+  },
+  {
+    "id": "dawn-c-04",
+    "slot": "dawn",
+    "role": "close",
+    "text": "记得吃早饭，空着肚子我会心疼。"
+  },
+  {
+    "id": "dawn-c-05",
+    "slot": "dawn",
+    "role": "close",
+    "text": "把这句揣兜里再出门。"
+  },
+  {
+    "id": "dawn-c-06",
+    "slot": "dawn",
+    "role": "close",
+    "text": "想我了就偷偷笑一下哦～"
+  },
+  {
+    "id": "dawn-c-07",
+    "slot": "dawn",
+    "role": "close",
+    "text": "新的一天，你要好好的。"
+  },
+  {
+    "id": "dawn-c-08",
+    "slot": "dawn",
+    "role": "close",
+    "text": "先别忙，让我喜欢你这一小会儿。"
+  },
+  {
+    "id": "morning-o-01",
+    "slot": "morning",
+    "role": "open",
+    "text": "清晨的风挺好的，你出门了吗？"
+  },
+  {
+    "id": "morning-o-02",
+    "slot": "morning",
+    "role": "open",
+    "text": "早安呀，早餐吃了没？"
+  },
+  {
+    "id": "morning-o-03",
+    "slot": "morning",
+    "role": "open",
+    "text": "这个点最适合想你，也适合出门。"
+  },
+  {
+    "id": "morning-o-04",
+    "slot": "morning",
+    "role": "open",
+    "text": "早上忙也要记得吃东西哦～"
+  },
+  {
+    "id": "morning-o-05",
+    "slot": "morning",
+    "role": "open",
+    "text": "嘿，晨光里我先跟你说一声喜欢。"
+  },
+  {
+    "id": "morning-o-06",
+    "slot": "morning",
+    "role": "open",
+    "text": "出门前看我一眼，就当我送你。"
+  },
+  {
+    "id": "morning-o-07",
+    "slot": "morning",
+    "role": "open",
+    "text": "早上好～今天的路，我陪你走一截。"
+  },
+  {
+    "id": "morning-o-08",
+    "slot": "morning",
+    "role": "open",
+    "text": "早饭热乎的话，记得我也热乎。"
+  },
+  {
+    "id": "morning-c-01",
+    "slot": "morning",
+    "role": "close",
+    "text": "吃过早餐再忙，我想你有力气。"
+  },
+  {
+    "id": "morning-c-02",
+    "slot": "morning",
+    "role": "close",
+    "text": "路上小心，到了也可以跟我说一声。"
+  },
+  {
+    "id": "morning-c-03",
+    "slot": "morning",
+    "role": "close",
+    "text": "想我了就偷偷笑一下哦～"
+  },
+  {
+    "id": "morning-c-04",
+    "slot": "morning",
+    "role": "close",
+    "text": "这一早上，你被我惦记着。"
+  },
+  {
+    "id": "morning-c-05",
+    "slot": "morning",
+    "role": "close",
+    "text": "别空腹赶路，我会担心。"
+  },
+  {
+    "id": "morning-c-06",
+    "slot": "morning",
+    "role": "close",
+    "text": "你去忙，我的喜欢放在这句里。"
+  },
+  {
+    "id": "morning-c-07",
+    "slot": "morning",
+    "role": "close",
+    "text": "阳光刚好，你也刚好。"
+  },
+  {
+    "id": "morning-c-08",
+    "slot": "morning",
+    "role": "close",
+    "text": "记得喝一口温的，再开始今天。"
+  },
+  {
+    "id": "forenoon-o-01",
+    "slot": "forenoon",
+    "role": "open",
+    "text": "上午忙起来也要记得喝水呀。"
+  },
+  {
+    "id": "forenoon-o-02",
+    "slot": "forenoon",
+    "role": "open",
+    "text": "忙到一半，有没有偷偷想我一下？"
+  },
+  {
+    "id": "forenoon-o-03",
+    "slot": "forenoon",
+    "role": "open",
+    "text": "上午好～喝水了没，我来盯你。"
+  },
+  {
+    "id": "forenoon-o-04",
+    "slot": "forenoon",
+    "role": "open",
+    "text": "这个钟点最容易忘了自己，所以我来提醒你。"
+  },
+  {
+    "id": "forenoon-o-05",
+    "slot": "forenoon",
+    "role": "open",
+    "text": "工作再忙，也要留一个缝想我哦～"
+  },
+  {
+    "id": "forenoon-o-06",
+    "slot": "forenoon",
+    "role": "open",
+    "text": "上午的光还亮着，我也亮着，在想你。"
+  },
+  {
+    "id": "forenoon-o-07",
+    "slot": "forenoon",
+    "role": "open",
+    "text": "嘿，停十秒，喝口水，再看我这句。"
+  },
+  {
+    "id": "forenoon-o-08",
+    "slot": "forenoon",
+    "role": "open",
+    "text": "有没有偷偷笑？想我的时候就可以。"
+  },
+  {
+    "id": "forenoon-c-01",
+    "slot": "forenoon",
+    "role": "close",
+    "text": "想我了就偷偷笑一下哦～"
+  },
+  {
+    "id": "forenoon-c-02",
+    "slot": "forenoon",
+    "role": "close",
+    "text": "水杯不许空着。"
+  },
+  {
+    "id": "forenoon-c-03",
+    "slot": "forenoon",
+    "role": "close",
+    "text": "忙归忙，心给我留一点。"
+  },
+  {
+    "id": "forenoon-c-04",
+    "slot": "forenoon",
+    "role": "close",
+    "text": "这一上午，我都在你这边。"
+  },
+  {
+    "id": "forenoon-c-05",
+    "slot": "forenoon",
+    "role": "close",
+    "text": "肩膀松一松，当我帮你按了按。"
+  },
+  {
+    "id": "forenoon-c-06",
+    "slot": "forenoon",
+    "role": "close",
+    "text": "你要是皱眉，就读我，会好一点。"
+  },
+  {
+    "id": "forenoon-c-07",
+    "slot": "forenoon",
+    "role": "close",
+    "text": "先把水喝了，人要精神。"
+  },
+  {
+    "id": "forenoon-c-08",
+    "slot": "forenoon",
+    "role": "close",
+    "text": "我没什么大事，就是想你，顺便叫你喝水。"
+  },
+  {
+    "id": "noon-o-01",
+    "slot": "noon",
+    "role": "open",
+    "text": "快中午啦，有没有偷偷想我呀？"
+  },
+  {
+    "id": "noon-o-02",
+    "slot": "noon",
+    "role": "open",
+    "text": "十二点了，放下手里的事，去吃饭。"
+  },
+  {
+    "id": "noon-o-03",
+    "slot": "noon",
+    "role": "open",
+    "text": "中午好～记得按时吃饭哦。"
+  },
+  {
+    "id": "noon-o-04",
+    "slot": "noon",
+    "role": "open",
+    "text": "饭点到了，我来查岗：吃了没？"
+  },
+  {
+    "id": "noon-o-05",
+    "slot": "noon",
+    "role": "open",
+    "text": "偷偷问一句，午饭想跟我一起吃吗？"
+  },
+  {
+    "id": "noon-o-06",
+    "slot": "noon",
+    "role": "open",
+    "text": "中午了呀，别对付一口就完事。"
+  },
+  {
+    "id": "noon-o-07",
+    "slot": "noon",
+    "role": "open",
+    "text": "嘿，肚子饿了吧，我都替你饿。"
+  },
+  {
+    "id": "noon-o-08",
+    "slot": "noon",
+    "role": "open",
+    "text": "午安。先吃饭，再想我，或者一边吃一边想。"
+  },
+  {
+    "id": "noon-c-01",
+    "slot": "noon",
+    "role": "close",
+    "text": "记得按时吃饭哦～我想你吃得饱饱的。"
+  },
+  {
+    "id": "noon-c-02",
+    "slot": "noon",
+    "role": "close",
+    "text": "吃好了再忙，空肚子我会心疼。"
+  },
+  {
+    "id": "noon-c-03",
+    "slot": "noon",
+    "role": "close",
+    "text": "这顿算我陪着，虽然隔着一条消息。"
+  },
+  {
+    "id": "noon-c-04",
+    "slot": "noon",
+    "role": "close",
+    "text": "饭要热的，人要被我喜欢着。"
+  },
+  {
+    "id": "noon-c-05",
+    "slot": "noon",
+    "role": "close",
+    "text": "吃完如果犯困，就当我让你靠一下。"
+  },
+  {
+    "id": "noon-c-06",
+    "slot": "noon",
+    "role": "close",
+    "text": "想我了就偷偷笑一下哦～"
+  },
+  {
+    "id": "noon-c-07",
+    "slot": "noon",
+    "role": "close",
+    "text": "别剩饭，也别把我想你这件事剩下。"
+  },
+  {
+    "id": "noon-c-08",
+    "slot": "noon",
+    "role": "close",
+    "text": "中午这一小时，专门用来疼你。"
+  },
+  {
+    "id": "afternoon_early-o-01",
+    "slot": "afternoon_early",
+    "role": "open",
+    "text": "午后啦，有没有一点困？想我就对了。"
+  },
+  {
+    "id": "afternoon_early-o-02",
+    "slot": "afternoon_early",
+    "role": "open",
+    "text": "吃过午饭了吧？没有的话现在去。"
+  },
+  {
+    "id": "afternoon_early-o-03",
+    "slot": "afternoon_early",
+    "role": "open",
+    "text": "这个点最容易累，我来陪你缓一缓。"
+  },
+  {
+    "id": "afternoon_early-o-04",
+    "slot": "afternoon_early",
+    "role": "open",
+    "text": "午后好～偷偷想我了没有？"
+  },
+  {
+    "id": "afternoon_early-o-05",
+    "slot": "afternoon_early",
+    "role": "open",
+    "text": "眼睛酸的话，歇一会儿。"
+  },
+  {
+    "id": "afternoon_early-o-06",
+    "slot": "afternoon_early",
+    "role": "open",
+    "text": "下午刚开始，先收我一句喜欢。"
+  },
+  {
+    "id": "afternoon_early-o-07",
+    "slot": "afternoon_early",
+    "role": "open",
+    "text": "嘿，犯困就正常，别硬撑。"
+  },
+  {
+    "id": "afternoon_early-o-08",
+    "slot": "afternoon_early",
+    "role": "open",
+    "text": "有没有喝水？午后也要喝哦～"
+  },
+  {
+    "id": "afternoon_early-c-01",
+    "slot": "afternoon_early",
+    "role": "close",
+    "text": "靠一靠，我的喜欢不急。"
+  },
+  {
+    "id": "afternoon_early-c-02",
+    "slot": "afternoon_early",
+    "role": "close",
+    "text": "想我了就偷偷笑一下哦～"
+  },
+  {
+    "id": "afternoon_early-c-03",
+    "slot": "afternoon_early",
+    "role": "close",
+    "text": "困了就眯五分钟，我守着。"
+  },
+  {
+    "id": "afternoon_early-c-04",
+    "slot": "afternoon_early",
+    "role": "close",
+    "text": "你要是累，这句就当我抱了你一下。"
+  },
+  {
+    "id": "afternoon_early-c-05",
+    "slot": "afternoon_early",
+    "role": "close",
+    "text": "水还要喝，喜欢也还要。"
+  },
+  {
+    "id": "afternoon_early-c-06",
+    "slot": "afternoon_early",
+    "role": "close",
+    "text": "这一小时不要求你振作，只要求你被我惦记。"
+  },
+  {
+    "id": "afternoon_early-c-07",
+    "slot": "afternoon_early",
+    "role": "close",
+    "text": "阳光还在，你也在我这里。"
+  },
+  {
+    "id": "afternoon_early-c-08",
+    "slot": "afternoon_early",
+    "role": "close",
+    "text": "慢慢来，我等你。"
+  },
+  {
+    "id": "afternoon-o-01",
+    "slot": "afternoon",
+    "role": "open",
+    "text": "下午还没完，想你已经很多下了。"
+  },
+  {
+    "id": "afternoon-o-02",
+    "slot": "afternoon",
+    "role": "open",
+    "text": "忙了一下午，记得喝水呀。"
+  },
+  {
+    "id": "afternoon-o-03",
+    "slot": "afternoon",
+    "role": "open",
+    "text": "这个钟点，窗外还亮着，我也亮着。"
+  },
+  {
+    "id": "afternoon-o-04",
+    "slot": "afternoon",
+    "role": "open",
+    "text": "嘿，有没有偷偷想我？"
+  },
+  {
+    "id": "afternoon-o-05",
+    "slot": "afternoon",
+    "role": "open",
+    "text": "下午后半段最容易乏，我来陪你一下。"
+  },
+  {
+    "id": "afternoon-o-06",
+    "slot": "afternoon",
+    "role": "open",
+    "text": "再撑一小会儿，我还在想你。"
+  },
+  {
+    "id": "afternoon-o-07",
+    "slot": "afternoon",
+    "role": "open",
+    "text": "下午啦～想我了就笑一下，我收得到。"
+  },
+  {
+    "id": "afternoon-o-08",
+    "slot": "afternoon",
+    "role": "open",
+    "text": "水喝了没？我隔着消息也要管你。"
+  },
+  {
+    "id": "afternoon-c-01",
+    "slot": "afternoon",
+    "role": "close",
+    "text": "想我了就偷偷笑一下哦～"
+  },
+  {
+    "id": "afternoon-c-02",
+    "slot": "afternoon",
+    "role": "close",
+    "text": "天还亮着，喜欢已经很满了。"
+  },
+  {
+    "id": "afternoon-c-03",
+    "slot": "afternoon",
+    "role": "close",
+    "text": "累了就停一停，我只催你喝水。"
+  },
+  {
+    "id": "afternoon-c-04",
+    "slot": "afternoon",
+    "role": "close",
+    "text": "这一段下午，写给你。"
+  },
+  {
+    "id": "afternoon-c-05",
+    "slot": "afternoon",
+    "role": "close",
+    "text": "你要是无聊，就当我在旁边说废话。"
+  },
+  {
+    "id": "afternoon-c-06",
+    "slot": "afternoon",
+    "role": "close",
+    "text": "记得活动一下肩膀。"
+  },
+  {
+    "id": "afternoon-c-07",
+    "slot": "afternoon",
+    "role": "close",
+    "text": "我没什么要交代的，就是想你。"
+  },
+  {
+    "id": "afternoon-c-08",
+    "slot": "afternoon",
+    "role": "close",
+    "text": "先别饿着，垫一口也好。"
+  },
+  {
+    "id": "dusk-o-01",
+    "slot": "dusk",
+    "role": "open",
+    "text": "傍晚啦，收工了没有？"
+  },
+  {
+    "id": "dusk-o-02",
+    "slot": "dusk",
+    "role": "open",
+    "text": "六点了，想你想得正好。"
+  },
+  {
+    "id": "dusk-o-03",
+    "slot": "dusk",
+    "role": "open",
+    "text": "天色暗下来的时候，我就来找你。"
+  },
+  {
+    "id": "dusk-o-04",
+    "slot": "dusk",
+    "role": "open",
+    "text": "晚饭要吃热的哦～有没有偷偷想我？"
+  },
+  {
+    "id": "dusk-o-05",
+    "slot": "dusk",
+    "role": "open",
+    "text": "忙完一天，现在轮到我了。"
+  },
+  {
+    "id": "dusk-o-06",
+    "slot": "dusk",
+    "role": "open",
+    "text": "嘿，下班的路上，我先占个位置。"
+  },
+  {
+    "id": "dusk-o-07",
+    "slot": "dusk",
+    "role": "open",
+    "text": "黄昏了呀，记得吃饭，也记得我。"
+  },
+  {
+    "id": "dusk-o-08",
+    "slot": "dusk",
+    "role": "open",
+    "text": "收工啦～今天辛苦了，我心疼你一下。"
+  },
+  {
+    "id": "dusk-c-01",
+    "slot": "dusk",
+    "role": "close",
+    "text": "先去吃饭，吃饱了我再跟你撒娇。"
+  },
+  {
+    "id": "dusk-c-02",
+    "slot": "dusk",
+    "role": "close",
+    "text": "想我了就偷偷笑一下哦～"
+  },
+  {
+    "id": "dusk-c-03",
+    "slot": "dusk",
+    "role": "close",
+    "text": "路灯亮了的话，就当我在等你。"
+  },
+  {
+    "id": "dusk-c-04",
+    "slot": "dusk",
+    "role": "close",
+    "text": "一天走到这里，喜欢还没到头。"
+  },
+  {
+    "id": "dusk-c-05",
+    "slot": "dusk",
+    "role": "close",
+    "text": "晚饭别对付，你要好好吃饭。"
+  },
+  {
+    "id": "dusk-c-06",
+    "slot": "dusk",
+    "role": "close",
+    "text": "把包放下，先歇口气。"
+  },
+  {
+    "id": "dusk-c-07",
+    "slot": "dusk",
+    "role": "close",
+    "text": "灯要亮起来了，我也已经在了。"
+  },
+  {
+    "id": "dusk-c-08",
+    "slot": "dusk",
+    "role": "close",
+    "text": "你回家的方向，算我目送。"
+  },
+  {
+    "id": "evening-o-01",
+    "slot": "evening",
+    "role": "open",
+    "text": "晚上啦，有没有想我呀？"
+  },
+  {
+    "id": "evening-o-02",
+    "slot": "evening",
+    "role": "open",
+    "text": "晚饭吃了没？没吃的话现在去。"
+  },
+  {
+    "id": "evening-o-03",
+    "slot": "evening",
+    "role": "open",
+    "text": "这个晚上，我想跟你说说话。"
+  },
+  {
+    "id": "evening-o-04",
+    "slot": "evening",
+    "role": "open",
+    "text": "嘿，灯打开了吗？我也在。"
+  },
+  {
+    "id": "evening-o-05",
+    "slot": "evening",
+    "role": "open",
+    "text": "忙完了就归我了哦～"
+  },
+  {
+    "id": "evening-o-06",
+    "slot": "evening",
+    "role": "open",
+    "text": "晚上了，偷偷想我是被允许的。"
+  },
+  {
+    "id": "evening-o-07",
+    "slot": "evening",
+    "role": "open",
+    "text": "饭桌上如果有空位，就当我坐那儿。"
+  },
+  {
+    "id": "evening-o-08",
+    "slot": "evening",
+    "role": "open",
+    "text": "今天过得怎么样？我想听，也想你。"
+  },
+  {
+    "id": "evening-c-01",
+    "slot": "evening",
+    "role": "close",
+    "text": "吃好，坐一会儿，我陪着。"
+  },
+  {
+    "id": "evening-c-02",
+    "slot": "evening",
+    "role": "close",
+    "text": "想我了就偷偷笑一下哦～"
+  },
+  {
+    "id": "evening-c-03",
+    "slot": "evening",
+    "role": "close",
+    "text": "这一晚慢慢过，我一句一句来。"
+  },
+  {
+    "id": "evening-c-04",
+    "slot": "evening",
+    "role": "close",
+    "text": "先让我喜欢你，别的都可以等等。"
+  },
+  {
+    "id": "evening-c-05",
+    "slot": "evening",
+    "role": "close",
+    "text": "你要是在回家路上，我已经在门口了。"
+  },
+  {
+    "id": "evening-c-06",
+    "slot": "evening",
+    "role": "close",
+    "text": "把一天的累留在门外。"
+  },
+  {
+    "id": "evening-c-07",
+    "slot": "evening",
+    "role": "close",
+    "text": "我要你知道，这时候我在想你。"
+  },
+  {
+    "id": "evening-c-08",
+    "slot": "evening",
+    "role": "close",
+    "text": "晚上风凉，记得加一件，我会担心。"
+  },
+  {
+    "id": "night-o-01",
+    "slot": "night",
+    "role": "open",
+    "text": "夜深一点了，还想你。"
+  },
+  {
+    "id": "night-o-02",
+    "slot": "night",
+    "role": "open",
+    "text": "这个点很静，静的是我想你。"
+  },
+  {
+    "id": "night-o-03",
+    "slot": "night",
+    "role": "open",
+    "text": "夜里了呀，有没有准备休息？"
+  },
+  {
+    "id": "night-o-04",
+    "slot": "night",
+    "role": "open",
+    "text": "嘿，还醒着的话，就看我一眼。"
+  },
+  {
+    "id": "night-o-05",
+    "slot": "night",
+    "role": "open",
+    "text": "晚一点的风里，全是你。"
+  },
+  {
+    "id": "night-o-06",
+    "slot": "night",
+    "role": "open",
+    "text": "屋子静下来了吗？我想靠你近一点。"
+  },
+  {
+    "id": "night-o-07",
+    "slot": "night",
+    "role": "open",
+    "text": "夜深了也要喝口水哦～"
+  },
+  {
+    "id": "night-o-08",
+    "slot": "night",
+    "role": "open",
+    "text": "这个钟点适合把声音放轻，把喜欢放明白。"
+  },
+  {
+    "id": "night-c-01",
+    "slot": "night",
+    "role": "close",
+    "text": "想我了就偷偷笑一下哦～笑完去歇着。"
+  },
+  {
+    "id": "night-c-02",
+    "slot": "night",
+    "role": "close",
+    "text": "别太晚睡，我会心疼。"
+  },
+  {
+    "id": "night-c-03",
+    "slot": "night",
+    "role": "close",
+    "text": "这个夜里，你被我好好想着。"
+  },
+  {
+    "id": "night-c-04",
+    "slot": "night",
+    "role": "close",
+    "text": "被子凉的话，这句先暖一下。"
+  },
+  {
+    "id": "night-c-05",
+    "slot": "night",
+    "role": "close",
+    "text": "还没到最后一句，先再喜欢你一次。"
+  },
+  {
+    "id": "night-c-06",
+    "slot": "night",
+    "role": "close",
+    "text": "去洗漱吧，我在这句里等你。"
+  },
+  {
+    "id": "night-c-07",
+    "slot": "night",
+    "role": "close",
+    "text": "灯可以暗一点，喜欢不要暗。"
+  },
+  {
+    "id": "night-c-08",
+    "slot": "night",
+    "role": "close",
+    "text": "你要是还忙，就记得有人在等你。"
+  },
+  {
+    "id": "close-o-01",
+    "slot": "close",
+    "role": "open",
+    "text": "今天最后一条啦。晚安～"
+  },
+  {
+    "id": "close-o-02",
+    "slot": "close",
+    "role": "open",
+    "text": "十一点了，该睡觉了哦。晚安。"
+  },
+  {
+    "id": "close-o-03",
+    "slot": "close",
+    "role": "open",
+    "text": "晚安。今天的最后一句，还是想你。"
+  },
+  {
+    "id": "close-o-04",
+    "slot": "close",
+    "role": "open",
+    "text": "今天最后，我还是想偷偷亲你一下。"
+  },
+  {
+    "id": "close-o-05",
+    "slot": "close",
+    "role": "open",
+    "text": "晚安呀～一天到这里就好。"
+  },
+  {
+    "id": "close-o-06",
+    "slot": "close",
+    "role": "open",
+    "text": "今天最后的喜欢，留给要睡觉的你。"
+  },
+  {
+    "id": "close-o-07",
+    "slot": "close",
+    "role": "open",
+    "text": "晚安。钟点到了，我想你还没到头。"
+  },
+  {
+    "id": "close-o-08",
+    "slot": "close",
+    "role": "open",
+    "text": "睡前看我一眼。今天最后，晚安。"
+  },
+  {
+    "id": "close-c-01",
+    "slot": "close",
+    "role": "close",
+    "text": "去睡吧。晚安～"
+  },
+  {
+    "id": "close-c-02",
+    "slot": "close",
+    "role": "close",
+    "text": "晚安。我在。"
+  },
+  {
+    "id": "close-c-03",
+    "slot": "close",
+    "role": "close",
+    "text": "今天最后，抱一下再睡。"
+  },
+  {
+    "id": "close-c-04",
+    "slot": "close",
+    "role": "close",
+    "text": "灯灭了也没关系。晚安。"
+  },
+  {
+    "id": "close-c-05",
+    "slot": "close",
+    "role": "close",
+    "text": "睡吧，明天我还在。晚安。"
+  },
+  {
+    "id": "close-c-06",
+    "slot": "close",
+    "role": "close",
+    "text": "今天最后的心意是你。晚安。"
+  },
+  {
+    "id": "close-c-07",
+    "slot": "close",
+    "role": "close",
+    "text": "盖好被子。晚安哦～"
+  },
+  {
+    "id": "close-c-08",
+    "slot": "close",
+    "role": "close",
+    "text": "我先说晚安，你再闭上眼。"
+  }
+]
